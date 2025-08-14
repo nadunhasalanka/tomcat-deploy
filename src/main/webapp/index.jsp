@@ -46,7 +46,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to TechHub</h1>
+        <h1>Welcome to NadHub</h1>
         <p>A simple place for developers to build and share great software.</p>
         
         <a href="#" class="button">Get Started</a>
